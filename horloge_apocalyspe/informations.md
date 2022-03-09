@@ -1,3 +1,3 @@
 ### L'HORLOGE DE L'APOCALYPSE 
-## CRÉATEURS
-
+Pésentation du projet de Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit et Maxime de Falco
+## 
