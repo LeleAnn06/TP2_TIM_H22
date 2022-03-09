@@ -6,6 +6,14 @@ L'intention du projet est de montrer que la société d'aujourd'hui nous impose 
 ## L'AMBIANCE
 Le but est de projeter une ambiance générale aquatique avec un style très fantastique et féérique. L'histoire projette cette source d'originalité et de créativité qu'ont retrouve dans les peintures classiques d'un musée. Les points mis en évidence sont l'eau, la nature, la lumière et le crépuscule. Le style du personnage est simple, mais adaptable a différent style. L'ambiance de l'audio sera inspiré de jeux vidéos. Il y aura des bruits relié a chaque tableaux, par exemple des bruits d'oiseaux, mais bien sur le principale de ce projet des bruits de pluie. Un rendu calme détendant et mystérieux.
 ![moodboard](medias/photo/moodboard.png)
-## ASPECTS TECHNIQUES
+## INSTALLATIONS 
 Les tableaux sont vident et lorsque le spectateurs s'approche de la zone de l'oeuvre, le personnage arrive dans le tableau et s'anime selon la position et les geste de l'interacteur.                                                                                                                                                                     ![](medias/photo/plan_technique.png)
 ![branchement](medias/photo/Schema_branchement.png)
+![](medias/photo/ultra_wide_nofocus.jpg)
+## PROGRAMMES INCONTOURNABLES 
+- Domaine du multimédia
+- ATELIER D'ILLUSTRATION NUMÉRIQUE 
+- PROGRAMMATION INTERACTIVE ET BASES DE DONNÉES
+## ATTENTE DE L'INTERACTEUR
+Ce qui est attendu principalement de l'interacteur est de ce placer devant les tableaux et de faire des positions et des mouvements pour que le personnages s'anime et que l'histoire puisse se dérouler. Il est bien aussi que le spectateur explore les différents cadres mis en place pour comprendre le thèmes qui est le temps.   
+
