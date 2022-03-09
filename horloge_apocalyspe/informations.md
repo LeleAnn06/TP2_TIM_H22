@@ -5,9 +5,9 @@ Le principe de ce projet est de montrer l'impact collectif et socio-politique et
 ## L'AMBIANCE 
 Cette histoire se déroule sur plusieurs style et c'est précisément le but du projet, Il y a le début de l'histoire qui est dans une ambiance et un audio très calme pour que l'interacteur soit en confiance. Puis il y aura un univers plus naturel, suivi d'un changement d'époque ou l'on va se retrouver dans la préistoire. Il y aura ausii des style hivernal, rétro, punk et bien sur pour finir sur le style de l'apocalypse. L'horloge qui a un style simple mais vieux sera sur un pied d'estale romain.
 ## L'INSTALLATION 
-![](../Medias/Photos/)
-![](../Medias/Photos/)
-![](../Medias/Photos/)
+![installation1](medias/photo/scénario_01.png)
+![installation2](medias/hoto/)
+![installation3](medias/hoto/)
 ## ATTENDU DE L'INTERACTEUR
 
 ## PROGRAMMES 
@@ -16,4 +16,4 @@ Cette histoire se déroule sur plusieurs style et c'est précisément le but du 
 
 
 
-![](../Medias/Photos/)
+![](../Medias/Photo/)
