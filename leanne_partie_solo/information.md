@@ -13,6 +13,6 @@ Mon projet préféré est Chronaufrage de Maloney Khim, Sounthida Kong, Olivier 
 Je crois que si je suis assinué a la création d'illustraion numérique et de l'animation 2D je serais à ma place et en confiance. Par contre, l'aspect programmation, projection et technique sont des domaines plus difficile pour moi. Je ne serais donc pas en confiance a l'idée de jouer ce rôle, parce que je ne métrise pas cette branche du multimédia.  
 ## Mon rôle dans un tel projet
 Selon mes aptitudes, mes habilité et ce que j'aime faire, je crois que je posséderais un rôle où je peux faire l'illustration numérique, la conception vidéo ou sonore et même l'animation 2D ou 3D, pusique j'adore dessiné et de rendre un dessin vivant avec une histoire emballante. Je suis quelqu'un qui aime rendre possible les idées des autres en illustration et j'adore le cinéma, alors je crois que mes compétences doivent ce situé dans cette branche d'un projet de cette empleur.
-![dessin](medias/photos/croquis.jpg)
+![dessin](medias/photos/croquis.jpg) ![dessin2](/medias/photo/)
 
 ![](/medias/photo/)
