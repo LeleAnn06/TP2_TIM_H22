@@ -12,8 +12,8 @@ Les tableaux sont vident et lorsque le spectateurs s'approche de la zone de l'oe
 ![](medias/photo/ultra_wide_nofocus.jpg)
 ## PROGRAMMES INCONTOURNABLES 
 - Domaine du multimédia
-- ATELIER D'ILLUSTRATION NUMÉRIQUE 
-- PROGRAMMATION INTERACTIVE ET BASES DE DONNÉES
+- Ateliers d'illustratration 
+- Programme interactive et bases de données
 ## ATTENTE DE L'INTERACTEUR
 Ce qui est attendu principalement de l'interacteur est de ce placer devant les tableaux et de faire des positions et des mouvements pour que le personnages s'anime et que l'histoire puisse se dérouler. Il est bien aussi que le spectateur explore les différents cadres mis en place pour comprendre le thèmes qui est le temps.   
 
