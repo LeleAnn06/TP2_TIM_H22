@@ -1,5 +1,7 @@
-# H1 Chère Sasha
+# Chère Sasha
 Par Trish Nguyen, Angelina De Silva Jeca, Karine Cornier et Sabrina Kayani
 
-# H2 Thématique
-Dans ce projet, nous retrouvons Sasha, une étudiante a la vie pleine de rebondissements. A l'aide des différents changements de décors durant le court-métrage, nous pouvons témoigner des différents états d'âme de Sasha. Par exemple, au début du film, la chambre de Sasha était sombre et désordonnée, représentant sa dépression. Sa chambre était tout le contraire de celle de ses parents, qui était illuminée et épurée. Ces multiples changements de décors et cette utilisation calculé de l'espace et en réalité un support de la thématique principale: Le Temps. En effet, les décors ainsi que les éléments multimédias inclus dans ceux-ci permettent au spectateur d'interpréter le temps pour qu'il visualise l'évolution du protagoniste du film.
+# Thématique
+Dans ce projet, nous retrouvons Sasha, une jeune adolescente traversant les divers obstacles de la vie en tant que personne LGBTQ. Ses parents, s'opposant à cette communauté, créer un grand sentiment d'oppression et de dépression chez Sasha. Par ailleurs, nous observons aussi la vie de Sasha à un âge plus mature, ce qui forme un énorme contraste entre les parrallèles puisqu'elle apprend peu à peu à s'accepter. La thématique principale, le temps, illustre l'évolution du protagoniste et l'influence que son entourage lui apporte tout au long du court-métrage. En résumé, le film prouve que la vie n'est pas toujours rose ou monotone, c'est un prolongement qui ne fait que varier au fil du temps.
+
+# L'ambiance
