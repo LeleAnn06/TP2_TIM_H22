@@ -7,8 +7,8 @@ Les complications commencent à partir du moment où le professeur se présente,
 Pour ce qui est de l'ambiance elle évoque un sentiment de stress et de solitude pour que l'interacteur se sente peu confortable. 
 ## INSTALLATION
 Il y a une chambre d'adolescent et une video est projecter avec un projecteur
-![plan](medias/photo/planV2.png)
-![branchement](medias/photo/)
+![plan](medias/photos/planV2.png)
+![branchement](medias/photos/)
 
 ##
 
