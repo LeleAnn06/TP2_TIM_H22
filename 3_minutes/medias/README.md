@@ -1,1 +1,1 @@
-Ce dossier contient l'information et les médias 
+Ce dossier contient les médias 
