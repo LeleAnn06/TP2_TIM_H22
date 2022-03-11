@@ -14,3 +14,6 @@ De chaque côté de la chambre de Sasha, nous retrouvons des objets narratifs et
 - Conception sonore intéractive
 - Conception de projets multimédia
 - Gestion de projet multimédia
+
+# ATTENTES DE L'INTÉRACTEUR
+L'intéracteur doit explorer les deux côtés de la chambre de Sasha afin de découvrir les éléments narratifs et intérractifs placés dans l'espace. La poubelle et les journaux intimes vont inviter l'intéracteur à découvrir la vie de Sasha tandis que le cellulaire et la boîte à musique vont faire participer l'interacteur à la narration de l'histoire.
