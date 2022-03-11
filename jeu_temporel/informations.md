@@ -1,4 +1,4 @@
-## JEU TEMPOREL
+# JEU TEMPOREL
 Présentation du projet par Raphaël Fillion et Philippe Trudel
 
 ## LE THÈME DU TEMPS
