@@ -7,8 +7,16 @@ L'expérience a pour but de sensibiliser l'intéracteur sur l'intimidation à tr
 ## L'AMBIANCE
 Pour la première partie de l'immersion où nous nous trouvons dans le gymnase, l'ambiance est très amusante. On entend plusieurs effets sonores comme une radio, des impacts de ballons, des couinements de chaussures et des paniers de basket, comme dans un vrai gymnase. Pour la seconde partie, où l'intéracteur se retrouve enfermé dans le casier, les effets sonores sont beaucoup plus troublant. Des pleurs, des cris, des rires moqueurs, une forte respirations ainsi que des pensées négative. 
 
+![i](medias/photos/aaa.png)
+![i](medias/photos/aa.png)
+![i](medias/photos/a.png)
+
 ## INSTALLATIONS
 L'intéracteur entre dans la salle et une Kinect détecte sa présence. Celle-ci déclanchera l'ouverture d'une lumière qui se trouve au-dessus du casque VR. L'utilisateur pourra ensuite mettre le casque VR et entrer dans le jeu.
+
+![i](medias/photos/p.png)
+![i](medias/photos/pp.png)
+![i](medias/photos/ppp.png)
 
 ## PROGRAMMES INCONTOURNABLES
 - Réalité virtuelle
