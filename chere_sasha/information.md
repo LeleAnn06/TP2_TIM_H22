@@ -11,7 +11,6 @@ Les créatrices du projet ont cherchées à démontrer les deux alters de Sasha.
 
 # INSTALLATIONS
 De chaque côté de la chambre de Sasha, nous retrouvons des objets narratifs et intérractifs permettant au spectateur de participer à l'histoire, comme une poubelle, des journaux intimes, une boîte à souvenirs ainsi qu'un cellulaire. Tout ces éléments font appel au spectateur, que ce soit sous forme vidéo ou sous forme sonore. Pour finir, le spectateur aura aussi l'opportunité de laisser une mot d'encouragemment à Sasha. Celui-ci s'afficheras par la suite sur le décor.
-![plan](/medias/photos/)
 
 # PROGRAMMES INCONTOURNABLES
 - Conception sonore intéractive
