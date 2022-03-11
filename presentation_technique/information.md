@@ -1,3 +1,5 @@
-# PROGRAMMATION DE BASES DE DONNÉES 
-## INTRODUCTION 
+# TECHNIQUE ET COMPOSANTE TECHNOLOGIQUE 
+## PROGRAMMATION ET BASES DE DONNÉES  
 Ce cours consiste à poursuivre le développement de la logique de programmation et de permettre à l'étudiant ou l'étudiante de l'introduire à différent niveau de'intéractivité dans une application multimédia en utilisant les bases de données. L'étudiant aquiert des aptitudes en programmation dans un contexte Web et interactif. Il étudie les concepts de programmation et apprend à utilisé des données structurés et des bases de données pour la gestion et l'organisation des données à afficher ou à utilisé pour controler l'intéractivité et les animations. L'objectif est d'être capable de programmer des produits multimédias. 
+## CANVAS
+Le canvas est un objet désigrant 
