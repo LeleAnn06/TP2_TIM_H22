@@ -15,4 +15,5 @@ Chaques installations requiert coordinateur dans un domaine précis (ex: artisti
 # Mon rôle dans un tel projet...
 Tout ce qui est programmation et autres domaines techniques ne sont vraiment pas ma tasse de thé. C'est pourquoi je viserais plutôt pour un rôle artistique, comme la conception vidéo et sonore . Comme je me débrouille déja assez dans ces domaines, j'ai extrêmement confiance en mes capacités d'accomplissements.
 
+![i](medias/photos/magique.png)
 # :)
